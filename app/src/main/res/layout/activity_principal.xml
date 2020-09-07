@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/telaprincipal"
+    tools:context=".PrincipalActivity">
+
+    <ImageView
+        android:id="@+id/imageInfos"
+        android:layout_width="290dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="332dp"
+        android:onClick="launchInfos"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/infos" />
+
+    <ImageView
+        android:id="@+id/imageEmpreend"
+        android:layout_width="290dp"
+        android:layout_height="110dp"
+        android:layout_marginTop="3dp"
+        android:onClick="launchListaEmpreendedoras"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageInfos"
+        app:srcCompat="@drawable/contratemulheres" />
+
+    <ImageView
+        android:id="@+id/imageTempo"
+        android:layout_width="290dp"
+        android:layout_height="110dp"
+        android:onClick="launchGestaoTempo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageEmpreend"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/gestaotempo" />
+</androidx.constraintlayout.widget.ConstraintLayout>

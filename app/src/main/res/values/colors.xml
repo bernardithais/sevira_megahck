@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coral">#FF6F64</color>
+    <color name="azul">#102540</color>
+    <color name="rosinha">#FFD4D4</color>
+    <color name="colorPrimary">#FF6F64</color>
+    <color name="colorPrimaryDark">#102540</color>
+    <color name="colorAccent">#FFD4D4</color>
+</resources>

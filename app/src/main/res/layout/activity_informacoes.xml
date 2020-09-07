@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/infostela"
+    tools:context=".InformacoesActivity">
+
+    <ScrollView
+        android:layout_width="405dp"
+        android:layout_height="503dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.662">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:divider="@drawable/empty_tall_divider"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:showDividers="middle">
+
+            <TextView
+                android:id="@+id/info1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext_coral"
+                android:gravity="center"
+                android:text="@string/info1"
+                android:textColor="#FFFFFF">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info2"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext"
+                android:gravity="center"
+                android:text="@string/info2"
+                android:textColor="@color/coral">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info3"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext_coral"
+                android:gravity="center"
+                android:text="@string/info3"
+                android:textColor="#FFFFFF">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info4"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext"
+                android:gravity="center"
+                android:text="@string/info4"
+                android:textColor="@color/coral">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info5"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext_coral"
+                android:gravity="center"
+                android:text="@string/info5"
+                android:textColor="#FFFFFF">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info6"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext"
+                android:gravity="center"
+                android:text="@string/info6"
+                android:textColor="@color/coral">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info7"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext_coral"
+                android:gravity="center"
+                android:text="@string/info7"
+                android:textColor="#FFFFFF">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info8"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext"
+                android:gravity="center"
+                android:text="@string/info8"
+                android:textColor="@color/coral">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/info9"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_edittext_coral"
+                android:gravity="center"
+                android:text="@string/info9"
+                android:textColor="#FFFFFF">
+
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

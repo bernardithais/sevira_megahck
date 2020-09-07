@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="questao1">Quanto tempo em média demora para lavar as roupas do dia a dia (calças jeans, camisetas, macacões, etc)?</string>
+    <string name="a1">30-40 min</string>
+    <string name="b1">1h20 – 1h30</string>
+    <string name="c1">50-60 min</string>
+    <string name="d1">1h45min - 2h</string>
+
+    <string name="questao2">Selecione a alternativa correta sobre água sanitária:</string>
+    <string name="a2">Água sanitária é uma ótima opção para lavar pisos, roupas e vidros.</string>
+    <string name="b2">Pode ser usada, com cautela, em roupas brancas e coloridas.</string>
+    <string name="c2">É um ótimo desinfetante para banheiros, contudo se deve tomar cuidado pois seu grande poder abrasivo pode manchar roupas e pisos.</string>
+    <string name="d2">A água sanitária é um ótimo auxiliar na limpeza, podendo ser utilizada em todos materiais, como plástico, madeira, vidro, etc. </string>
+
+    <string name="questao3">Assinale a alternativa correta:</string>
+    <string name="a3">Mulheres se dedicam em média 5h por semana para atividades domésticas, enquanto homens dedicam-se apenas 1h.</string>
+    <string name="b3">Atualmente, por causa do avanço na igualdade de gênero, não há mais grandes diferenças na quantidade de horas utilizada para afazeres domésticos entre homens e mulheres.</string>
+    <string name="c3"> Mulheres realizam 5 vezes mais atividades relacionadas à casa que seus parceiros.</string>
+    <string name="d3">Em média, mulheres dedicam-se 10,4 horas por semana a mais que os homens aos afazeres domésticos</string>
+
+    <string name="questao4">Atualmente no Brasil existem cerca de:</string>
+    <string name="a4">24 milhões de empreendedoras.</string>
+    <string name="b4">10 milhões de empreendedoras.</string>
+    <string name="c4">8 milhões de empreendedoras.</string>
+    <string name="d4">16 milhões de empreendedoras.</string>
+
+    <string name="questao5">Estima-se que o tempo necessário para lavar uma louça de um jantar para 4 varia entre:</string>
+    <string name="a5">40-50min</string>
+    <string name="b5">20-30min</string>
+    <string name="c5">1h-1h15</string>
+    <string name="d5">15min</string>
+
+    <string name="questao6">Levando em consideração as mulheres no mercado de trabalho, podemos apontar que:</string>
+    <string name="a6">As mulheres tem menos oportunidades de emprego, pois elas são menos especializadas, visto que historicamente não foram incentivadas a estudar.</string>
+    <string name="b6">Homens possuem cargos melhores que as mulheres porque elas preferem se dedicar à casa e aos filhos.</string>
+    <string name="c6">Mulheres são 16% mais escolarizadas em anos de estudo e faturam 22% menos se comparadas aos homens.</string>
+    <string name="d6">Não há grandes diferenças entre homens e mulheres no mercado de trabalho.</string>
+
+</resources>

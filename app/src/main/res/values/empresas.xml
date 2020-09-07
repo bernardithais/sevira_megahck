@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="dinoveg"><li><b>Dinossauro Vegano</b></li>
+        <li>@dinossauroveg</li>
+        <li>-Marmitas veganas</li>
+        <li>Cardápio novo toda semana</li>
+        <li>Marmitas balanceadas com consulta nutricional</li>
+        <li><b>(41) 98867-0585</b></li>
+    </string>
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Se Vira</string>
+    <string name="nome">Seu nome aqui</string>
+    <string name="confirmSenha">Confirmação da senha</string>
+    <string name="naoIguais">Senhas não são iguais</string>
+    <string name="senha">Sua senha aqui</string>
+    <string name="email">Seu e-mail aqui</string>
+    <string name="idade">Sua idade aqui</string>
+    <string name="cadastroEmpresa">Sou mulher empreendedora e gostaria de cadastrar minha empresa</string>
+    <string name="nomeEmpresa">O nome da sua empresa aqui</string>
+    <string name="descEmpresa">A descrição da sua empresa aqui</string>
+    <string name="cidadeEmpresa">A cidade em que você atua</string>
+    <string name="delivery">Tenho serviço de entrega para outras regiões</string>
+    <string name="linkEmpresa">Deixe uma rede social</string>
+    <string name="telEmpresa">Deixe um telefone de contato</string>
+    <string name="finCadastro">Finalizar cadastro</string>
+</resources>
